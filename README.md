@@ -1,6 +1,4 @@
 # 前言
-
-# KVO-Demo
 KVO演示-Demo。 
 ###本次开发环境
 Xcode: 7.2  
