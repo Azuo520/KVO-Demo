@@ -67,10 +67,6 @@
 				9F4359B81CD0B8C1002B116F /* ViewController.m */,
 				9F4359CB1CD0BAC9002B116F /* myKVO.h */,
 				9F4359CC1CD0BAC9002B116F /* myKVO.m */,
-				9F4359BA1CD0B8C1002B116F /* Main.storyboard */,
-				9F4359BD1CD0B8C1002B116F /* Assets.xcassets */,
-				9F4359BF1CD0B8C1002B116F /* LaunchScreen.storyboard */,
-				9F4359C21CD0B8C1002B116F /* Info.plist */,
 				9F4359B11CD0B8C1002B116F /* Supporting Files */,
 			);
 			path = "KVO演示";
@@ -79,6 +75,10 @@
 		9F4359B11CD0B8C1002B116F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9F4359BA1CD0B8C1002B116F /* Main.storyboard */,
+				9F4359BD1CD0B8C1002B116F /* Assets.xcassets */,
+				9F4359BF1CD0B8C1002B116F /* LaunchScreen.storyboard */,
+				9F4359C21CD0B8C1002B116F /* Info.plist */,
 				9F4359B21CD0B8C1002B116F /* main.m */,
 			);
 			name = "Supporting Files";
@@ -306,6 +306,7 @@
 				9F4359C71CD0B8C1002B116F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
